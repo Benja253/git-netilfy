@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='principal-title'>Applicación de usuarios</h1>
+      <h1 className='principal-title'>Users App</h1>
       <div className='user-container'>
         {
           users?.map(user => (
